@@ -13,3 +13,6 @@ Shidiq Arifin Sudrajat 2202152
 ![Provider - Tampilan awal sebelum diklik button refresh](https://github.com/hafidzf25/TP3PROVIS2024C2/assets/117885795/7b55e2a1-b4c5-40f2-8e8f-b39d327068ab)
 
 Cara memunculkan data nya adalah dengan mengklik button di kanan atas
+
+![Provider - Tampilan setelah diklik button refresh](https://github.com/hafidzf25/TP3PROVIS2024C2/assets/117885795/a382832c-88e7-4a57-809b-0658ff6a5b77)
+
